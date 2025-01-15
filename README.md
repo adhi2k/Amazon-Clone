@@ -4,7 +4,7 @@ This is a clone of the Amazon.in website created using HTML and CSS only. It aim
 
 
 ## Screenshot
-![Amazon Clone -image](https://github.com/rishika105/Amazon-Clone/assets/165581871/4d5912a8-ea6d-45fc-ac64-1f7492a8eb27)
+![Amazon Clone -image](https://github.com/user-attachments/assets/3101be11-7288-4e4f-886a-682b1678d521)
 
 ## Usage
 
